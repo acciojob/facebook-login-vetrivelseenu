@@ -11,6 +11,14 @@ body{
 	margin-top:70px;
 	display:inline-block;
 }
+img{
+	width:250px
+}
+p{
+	font-size:9px;
+	padding:4px
+	
+}
 form{
 	display:flex;
 	width:300px;
